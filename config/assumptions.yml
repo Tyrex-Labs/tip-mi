@@ -1,0 +1,8 @@
+maint_per_mile: 0.10
+trailer_speed_mph: 50
+box_route_hours: 8
+
+yard_hours_paid:
+  TRI: 8.5
+  TRO: 7.5
+  NE: 7.5
